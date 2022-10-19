@@ -1,0 +1,21 @@
+applications/fake_face_detect/tools/*
+scratch_log/*
+AlexNet_pretrained.tar
+AlexNet_pretrained
+AlexNet_pretrained/*
+ResNet50_pretrained.tar
+ResNet50_pretrained
+ResNet50_pretrained/*
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.pb
+dist
+build
+
+.idea/
+thirdparty
+conf/*.conf
+conf/*.ini
