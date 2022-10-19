@@ -10,4 +10,6 @@ Federated Learing Model
 Adult
 
 ## Prerequisites
-Pytorch
+[Pytorch](https://pytorch.org/get-started/locally/)
+sklearn
+pandas
